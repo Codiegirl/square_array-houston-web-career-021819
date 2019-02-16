@@ -1,8 +1,10 @@
 def square_array(array)
-  array = [i]
-  array.each do |i.sqrt|
-    new numbers# your code here
+  new_array = []
+  array.each do |num|
+    new_array << (num.sqrt)
+    
 end
+return new array
 
 def square_array(numbers)
    new_numbers = []
