@@ -3,3 +3,4 @@ def square_array(array)
   array.each do |i.sqrt|
     new numbers# your code here
 end
+
