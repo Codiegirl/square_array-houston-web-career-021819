@@ -5,6 +5,7 @@ def square_array(array)
     
 end
 return new array
+end
 
 def square_array(numbers)
    new_numbers = []
